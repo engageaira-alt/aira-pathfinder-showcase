@@ -1,9 +1,17 @@
-# aira-pathfinder-showcase
-Structured AI first assessment flow for complex business and public-sector questions.
-
 # AIRA Pathfinder Showcase
 
-A structured AI first-assessment flow for complex business, public-sector, and multi-stakeholder questions. 
+Structured AI first assessment flow for complex business and public-sector questions.
+
+## Screenshots
+
+### Pathfinder overview
+![Pathfinder home](images/pathfinder-home.png)
+
+### Pathfinder input
+![Pathfinder input](images/invoer.png)
+
+### Pathfinder result
+![Pathfinder result](images/resultaat.png)
 
 ## Overview
 
@@ -33,12 +41,13 @@ The showcase demonstrates how a user can submit a question or challenge and rece
 
 ## Stack used in the live project
 
-Depending on deployment and iteration, the broader implementation around AIRA Pathfinder has involved technologies such as:
+The broader implementation around AIRA Pathfinder has involved technologies such as:
 
-- Laravel
-- Blade / Tailwind CSS
 - FastAPI
+- Python
+- Render
 - OpenAI API
+- website integration via AIRA
 - structured prompt / response handling
 
 ## Notes
