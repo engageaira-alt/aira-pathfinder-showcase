@@ -3,7 +3,7 @@ Structured AI first assessment flow for complex business and public-sector quest
 
 # AIRA Pathfinder Showcase
 
-A structured AI first-assessment flow for complex business, public-sector, and multi-stakeholder questions.
+A structured AI first-assessment flow for complex business, public-sector, and multi-stakeholder questions. 
 
 ## Overview
 
